@@ -1,16 +1,24 @@
-## Hi there 👋
+## Mathieu Lang
 
-<!--
-**mlang789/mlang789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Mastère Spécialisé **Data Science** à l’**ENSAE Paris (Institut Polytechnique de Paris)**.  
+Intéressé par l’apprentissage automatique, la modélisation statistique, et les applications concrètes de l’intelligence artificielle.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Domaines d'intérêt
+- Machine Learning, Deep Learning et Reinforcement Learning  
+- Séries temporelles, prévision et analyse causale  
+- Traitement automatique du langage et grands modèles de langage (LLM)  
+- Applications industrielles et recherche appliquée en IA  
+
+---
+
+### Projets (en cours)
+- **Prédiction de courses hippiques** — Modélisation supervisée (projet ENSAE)  
+- **Environnement Godot pour agents intelligents** — Prototype d’intégration d’algorithmes de Reinforcement Learning  
+
+---
+
+### Contact
+- **GitHub** : github.com/mlang789  
+- **Email** : mlang789@gmail.com  
