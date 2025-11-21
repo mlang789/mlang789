@@ -21,4 +21,4 @@ Intéressé par l’apprentissage automatique, la modélisation statistique, et 
 
 ### Contact
 - **GitHub** : github.com/mlang789  
-- **Email** : mlang789@gmail.com  
+- **Email** : mathieu.lang@ensae.fr
